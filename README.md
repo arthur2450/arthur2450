@@ -1,4 +1,4 @@
-# Arthur Araujo
+<img width="1983" height="793" alt="BannerGitHub" src="https://github.com/user-attachments/assets/fafa2f35-78e8-46ab-a684-dfc69ec70f71" />
 
 Desenvolvedor em formação | ADS @ Eniac | JavaScript | Node.js | Automação | IA
 
