@@ -1,10 +1,15 @@
-<img width="1983" height="793" alt="BannerGitHub" src="https://github.com/user-attachments/assets/fafa2f35-78e8-46ab-a684-dfc69ec70f71" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/fafa2f35-78e8-46ab-a684-dfc69ec70f71"
+    alt="Arthur Araujo - Desenvolvedor em formação"
+  />
+</p>
 
-Desenvolvedor em formação | ADS @ Eniac | JavaScript | Node.js | Automação | IA
+<p align="center">
+  Desenvolvedor em formação • ADS @ Eniac • JavaScript • Node.js • Automação • IA
+</p>
 
 Estudante de Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de software, automação de processos, integrações entre sistemas e aplicações de Inteligência Artificial.
-
-Atualmente estou construindo projetos práticos para desenvolver experiência com APIs, backend, automação e integração de diferentes tecnologias.
 
 ---
 
