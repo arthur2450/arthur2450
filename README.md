@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Desenvolvimento de software • Automação • IA • Integrações
+  Desenvolvimento de software • BackEnd • Automação • Integrações
 </p>
 
 ---
@@ -23,10 +23,16 @@ Atualmente desenvolvendo projetos práticos com JavaScript, Node.js, APIs e inte
 
 ---
 
-## Tecnologias
+## 🛠️ Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,java&theme=light" height="32" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm&theme=light" height="32" />
 </p>
 
 ---
