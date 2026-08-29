@@ -39,8 +39,7 @@ Atualmente desenvolvendo projetos práticos com JavaScript, Node.js, APIs e inte
 
 ## Projetos
 
-Em breve, projetos de desenvolvimento, automação e Inteligência Artificial.
-
+Em breve...
 ---
 
 ## Contato
