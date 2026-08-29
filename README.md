@@ -39,4 +39,4 @@ Em breve, projetos de desenvolvimento, automação e Inteligência Artificial.
 
 ## Contato
 
-[GitHub](https://github.com/arthur2450) • [LinkedIn]([SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/arthur-araujo-083566244/)
+[GitHub](https://github.com/arthur2450) • [LinkedIn](https://www.linkedin.com/in/arthur-araujo-083566244/)
