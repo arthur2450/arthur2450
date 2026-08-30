@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/fafa2f35-78e8-46ab-a684-dfc69ec70f71"
+    src="https://github.com/user-attachments/assets/70162d08-b45c-4be2-b78b-3153c578368d"
     alt="Arthur Araujo - Desenvolvedor em formação"
   />
 </p>
@@ -26,13 +26,13 @@ Atualmente desenvolvendo projetos práticos com JavaScript, Node.js, APIs e inte
 ## 🛠️ Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,java&theme=light" height="32" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,java&theme=dark" height="32" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm&theme=light" height="32" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm&theme=dark" height="32" />
 </p>
 
 ---
@@ -40,6 +40,7 @@ Atualmente desenvolvendo projetos práticos com JavaScript, Node.js, APIs e inte
 ## Projetos
 
 Em breve...
+
 ---
 
 ## Contato
