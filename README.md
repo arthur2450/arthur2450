@@ -15,14 +15,14 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento de software, backend, automação e integrações entre sistemas.
 
-Atualmente desenvolvendo projetos práticos com **JavaScript, Node.js, APIs e Java**.
+Atualmente desenvolvendo projetos práticos com **JavaScript, Node.js, Java, APIs e bancos de dados**.
 
 ---
 
 ## 🧩 Stacks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,java&theme=dark" height="32" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,postgres,mysql&theme=dark" height="32" />
 </p>
 
 ---
@@ -31,52 +31,54 @@ Atualmente desenvolvendo projetos práticos com **JavaScript, Node.js, APIs e Ja
 
 <table>
 <tr>
+
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,java,js&theme=dark" height="45">
+<img src="https://skillicons.dev/icons?i=java,nodejs,postgres&theme=dark" height="45">
 
 ### Backend
 
-APIs  
+APIs REST  
 Node.js  
 Java  
-Desenvolvimento de software
+SQL & Bancos de dados
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,js&theme=dark" height="45">
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="45">
 
 ### Automação
 
-Processos  
 Workflows  
-Integração de serviços  
+Processos automatizados  
+Scripts  
 Tarefas repetitivas
 
 </td>
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" height="45">
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" height="45">
 
-### Integrações
+### Cloud & Integrações
 
 APIs REST  
 Webhooks  
-Comunicação entre sistemas  
-Serviços externos
+Serviços externos  
+Cloud
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Ferramentas
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="40" />
 
 ---
 
@@ -90,8 +92,9 @@ Serviços externos
 
 - Aprofundando conhecimentos em **JavaScript e Node.js**
 - Estudando **Java** com foco em backend
+- Praticando **SQL e bancos de dados**
 - Desenvolvendo projetos com **APIs e integrações**
-- Praticando **Git e GitHub**
+- Explorando **Cloud e automação**
 - Construindo projetos para compor meu portfólio
 
 ---
