@@ -1,15 +1,15 @@
-<p alinharheight"centro">
-  <imagem
-    fonte="https://github.com/user-attachments/assets/70162d08-b45c-4be2-b78b-3153c578368d"
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/70162d08-b45c-4be2-b78b-3153c578368d"
     alt="Arthur Araujo - Desenvolvedor em formação"
   />
 </p>
 
-<p alinhar="centro">
+<p align="center">
   Desenvolvedor em formação • ADS @ Eniac
 </p>
 
-<p alinhar="centro">
+<p align="center">
   Desenvolvimento de software • BackEnd • Automação • Integrações
 </p>
 
@@ -19,20 +19,20 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, interessado em criar soluções utilizando programação, automação e Inteligência Artificial.
 
-Desenvolvendo atualmente projetos práticos com JavaScript, Node.js, APIs e integrações.
+Atualmente desenvolvendo projetos práticos com JavaScript, Node.js, APIs e integrações.
 
 ---
 
-## 🛠️ Pilhas
+## 🛠️ Stacks
 
-<p alinhar="esquerda">
-  <imagem fonte="https://skillicons.dev/icons?i=js,nodejs,java&tema=escuro" alturaaltura"32" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java&theme=dark" height="32" />
 </p>
 
-### Ferramentas
+### Tools
 
-<p alinhar="esquerda">
-  <imagem fonte="https://skillicons.dev/icons?i=git,github,vscode,intellij&tema=escuro" alta="32" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="32" />
 </p>
 
 ---
