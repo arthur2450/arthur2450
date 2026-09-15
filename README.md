@@ -25,19 +25,58 @@ Atualmente desenvolvendo projetos práticos com **JavaScript, Node.js, APIs e Ja
   <img src="https://skillicons.dev/icons?i=js,nodejs,java&theme=dark" height="32" />
 </p>
 
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="32" />
-</p>
-
 ---
 
 ## ⚙️ Áreas de interesse
 
-| Backend | Automação | Integrações |
-|:---:|:---:|:---:|
-| APIs • Node.js • Java | Workflows • Processos | APIs • Webhooks |
+<table>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,java,js&theme=dark" height="45">
+
+### Backend
+
+APIs  
+Node.js  
+Java  
+Desenvolvimento de software
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,js&theme=dark" height="45">
+
+### Automação
+
+Processos  
+Workflows  
+Integração de serviços  
+Tarefas repetitivas
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs&theme=dark" height="45">
+
+### Integrações
+
+APIs REST  
+Webhooks  
+Comunicação entre sistemas  
+Serviços externos
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="45" />
 
 ---
 
@@ -49,17 +88,21 @@ Atualmente desenvolvendo projetos práticos com **JavaScript, Node.js, APIs e Ja
 
 ## 🎯 Foco atual
 
-**Backend**  
-Construção de APIs e aplicações utilizando JavaScript, Node.js e Java.
-
-**Automação**  
-Exploração de automações e processos que reduzem tarefas repetitivas.
-
-**Integrações**  
-Conexão entre APIs, serviços e diferentes sistemas.
+- Aprofundando conhecimentos em **JavaScript e Node.js**
+- Estudando **Java** com foco em backend
+- Desenvolvendo projetos com **APIs e integrações**
+- Praticando **Git e GitHub**
+- Construindo projetos para compor meu portfólio
 
 ---
 
 ## 📫 Contato
 
-[GitHub](https://github.com/arthur2450) • [LinkedIn](https://www.linkedin.com/in/arthur-araujo-083566244/)
+<p align="left">
+  <a href="https://github.com/arthur2450">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-araujo-083566244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
