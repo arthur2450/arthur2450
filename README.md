@@ -9,9 +9,6 @@
   />
 </p>
 
-"
-
-  />
 </p>
 
 <h1 align="center">Hi, I'm Arthur! 👋</h1>
