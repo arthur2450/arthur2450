@@ -10,8 +10,7 @@
 </p>
 
 "
-    alt="Arthur Araujo | Software Development, Backend & Game Development"
-    width="100%"
+
   />
 </p>
 
