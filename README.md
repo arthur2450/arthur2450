@@ -2,7 +2,8 @@
 <!-- PROFILE BANNER -->
 <p align="center">
   <img
-    src="blob:https://chatgpt.com/57ce2276-fc4c-4628-94b1-6d0c32846214"
+    src="<img width="2172" height="724" alt="Banner Tech Noturno_ Código e Aventuras" src="https://github.com/user-attachments/assets/c2480069-ca8d-4976-a558-43c52d3b7c51" />
+"
     alt="Arthur Araujo | Software Development, Backend & Game Development"
     width="100%"
   />
