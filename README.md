@@ -1,70 +1,191 @@
+
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70162d08-b45c-4be2-b78b-3153c578368d" alt="Arthur Araujo — Software Development Student" />
+  <img
+    src="blob:https://chatgpt.com/57ce2276-fc4c-4628-94b1-6d0c32846214"
+    alt="Arthur Araujo | Software Development, Backend & Game Development"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">Hi, I'm Arthur 👋</h1>
+<h1 align="center">Hi, I'm Arthur! 👋</h1>
+
 <p align="center">
-  <strong>Software Development Student | Java & Object-Oriented Programming | Aspiring Game Developer</strong>
+  <strong>Software Development Student | Backend & Game Development</strong>
 </p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-araujo-083566244/">LinkedIn</a> ·
-  <a href="https://github.com/arthur2450?tab=repositories">Repositories</a>
+  🎓 Systems Analysis and Development (ADS) @ Eniac
 </p>
-
----
-
-### About me
-
-I'm a **Systems Analysis and Development** student based in Brazil, building a foundation in software engineering with a particular interest in **game development and backend systems**.
-
-Right now, I'm learning **Java, object-oriented programming, programming logic, and Git/GitHub** through hands-on projects. My goal is to understand how software works, write maintainable code, and gradually apply those skills to games and the systems behind them.
-
-I'm also beginning to explore **C++ and game engines**, with a long-term interest in gameplay programming and multiplayer systems.
-
-### Currently working on
-
-| Project | What I'm learning | Status |
-| --- | --- | --- |
-| **Task Tracker (Java)** | Classes and objects, encapsulation, collections, application logic, and clean code organization | In development |
-| **First 2D game** | Game loops, player input, collisions, game states, and shipping a playable build | Planned / getting started |
-
-*Project repositories and playable links will be added as soon as they are available.*
-
-### Technologies & tools
-
-**Currently learning and using**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea&theme=dark" alt="Java, Git, GitHub, IntelliJ IDEA" height="38" />
-</p>
-
-**Exploring next**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,godot,unreal&theme=dark" alt="C++, Godot, Unreal Engine" height="38" />
-</p>
-
-These icons reflect my **learning path**, not a claim of professional proficiency.
-
-### What I'm working toward
-
-- Stronger fundamentals in **object-oriented programming, data structures, and algorithms**
-- Practical experience with **C++ and game development**
-- Small, complete games that I can share and explain
-- Backend engineering skills, including **Java, APIs, databases, and multiplayer-related systems**
-- Better technical communication and collaboration in English
-
-### How I learn
-
-I prefer building projects step by step, understanding the reasoning behind each design decision, and improving code through testing, debugging, and feedback. This GitHub documents that process as I learn.
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-araujo-083566244/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/arthur2450">
-    <img src="https://img.shields.io/badge/GitHub-arthur2450-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Systems Analysis and Development (ADS)** student at **Eniac**, based in Brazil, currently building my foundations in software engineering.
+
+My main interests are **Backend Development, Game Development, and Software Engineering**, especially the technical challenges involved in building reliable applications and interactive systems.
+
+I'm currently focused on learning **Java, Object-Oriented Programming, programming fundamentals, and version control**, applying what I learn through practical projects.
+
+Alongside backend development, I'm beginning my journey into **C++ and game development**, with the long-term goal of working on gameplay programming, game systems, and multiplayer technologies.
+
+I enjoy understanding how things work, solving problems, and gradually turning ideas into functional software.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Currently Learning & Using
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea&theme=dark" height="42" alt="Java, Git, GitHub and IntelliJ IDEA" />
+</p>
+
+- **Programming:** Java, programming logic, OOP fundamentals
+- **Version Control:** Git and GitHub
+- **Development Environment:** IntelliJ IDEA
+- **Build Tools:** Maven fundamentals
+
+### Additional Interests & Background
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,vscode&theme=dark" height="42" alt="JavaScript, Node.js and VS Code" />
+</p>
+
+- JavaScript and Node.js
+- Backend architecture and REST APIs
+- Automation and integrations
+- Databases and SQL
+
+### Exploring & Learning Next
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,godot,unreal&theme=dark" height="42" alt="C++, Godot and Unreal Engine" />
+</p>
+
+- **C++:** Fundamentals and object-oriented programming
+- **Godot:** 2D game development
+- **Unreal Engine:** C++ gameplay programming
+- **Game Systems:** Gameplay mechanics, architecture and multiplayer fundamentals
+
+> My technology stack represents my current learning journey and technical interests, not a claim of professional proficiency in every tool listed.
+
+---
+
+## 🚀 Projects
+
+I'm building my portfolio through practical projects, focusing on learning core concepts and developing software that I can understand, explain, and improve.
+
+### 📋 Task Tracker — Java
+
+**Status:** In Development
+
+A command-line task management application developed in Java to practice software engineering fundamentals.
+
+**Learning objectives:**
+- Object-oriented programming
+- Classes, objects and encapsulation
+- Collections and data management
+- Application logic and code organization
+- Git and GitHub workflows
+
+**Planned functionality:**
+- Create tasks
+- List and manage tasks
+- Update task information
+- Mark tasks as completed
+- Delete tasks
+
+*Repository link will be added when published.*
+
+### 🎮 First 2D Game
+
+**Status:** Planned / Getting Started
+
+A small 2D game project designed to introduce core game development concepts and the process of building and publishing a playable game.
+
+**Learning objectives:**
+- Game engines and scene structure
+- Player input and movement
+- Collision detection
+- Game states and scoring
+- Game testing and publishing
+
+*GitHub and itch.io links will be added when available.*
+
+---
+
+## 🎯 Current Learning Focus
+
+| Area | Focus |
+| --- | --- |
+| ☕ Java | Programming fundamentals and OOP |
+| 🧠 Computer Science | Logic, data structures and algorithms |
+| ⚙️ Backend | Application architecture, APIs and databases |
+| 🔧 Development Tools | Git, GitHub, Maven and debugging |
+| 💻 C++ | Language fundamentals and software development |
+| 🎮 Game Development | Godot, Unreal Engine and gameplay systems |
+| 🌐 English | Technical communication and collaboration |
+
+---
+
+## 🧭 Long-Term Goals
+
+My goal is to grow into a software engineer with strong fundamentals and practical experience across backend and game development.
+
+Areas I plan to explore more deeply include:
+
+- **Software Engineering:** Clean code, maintainable architecture, testing and problem-solving
+- **Backend Development:** Java, Spring Boot, SQL, PostgreSQL, Docker and REST APIs
+- **C++ Development:** Memory management, modern C++, data structures and performance
+- **Game Programming:** Gameplay systems, Unreal Engine, game architecture and optimization
+- **Multiplayer Systems:** Networking fundamentals, dedicated servers and backend services for online games
+
+I'm working toward building a portfolio of complete, documented projects rather than collecting technologies without practical experience.
+
+---
+
+## 📈 My Development Journey
+
+I believe the best way to learn software development is to combine theory with consistent practice.
+
+My approach is to:
+
+1. Understand the fundamentals before introducing complex frameworks.
+2. Build practical projects and learn from real problems.
+3. Use debugging, testing and documentation to improve code quality.
+4. Progress from small applications to more advanced systems.
+5. Continuously improve my technical and communication skills.
+
+This GitHub serves as a record of that journey.
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in learning, collaborating, and connecting with people in software engineering, backend development, and game development.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthur-araujo-083566244/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/arthur2450">
+    <img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning, building, and improving — one project at a time.</i>
 </p>
