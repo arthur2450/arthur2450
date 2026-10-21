@@ -1,8 +1,14 @@
 
+
 <!-- PROFILE BANNER -->
 <p align="center">
   <img
-    src="<img width="2172" height="724" alt="Banner Tech Noturno_ Código e Aventuras" src="https://github.com/user-attachments/assets/c2480069-ca8d-4976-a558-43c52d3b7c51" />
+    src="https://github.com/user-attachments/assets/c2480069-ca8d-4976-a558-43c52d3b7c51"
+    alt="Arthur Araujo | Software Development, Backend & Game Development"
+    width="100%"
+  />
+</p>
+
 "
     alt="Arthur Araujo | Software Development, Backend & Game Development"
     width="100%"
